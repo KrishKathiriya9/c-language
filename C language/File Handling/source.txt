@@ -1,0 +1,4 @@
+A line is a single row of text, usually measured horizontally.
+ In contrast, a paragraph is
+  a group of related sentences that
+   form a distinct section of written content. 
